@@ -1,0 +1,2 @@
+CREATE EXTENSION dblink SCHEMA public;
+CREATE EXTENSION pgcrypto SCHEMA public;

@@ -1,0 +1,3 @@
+# entidade_nivel_acesso dblink interno
+
+host    "BANCO XXX"             dblink           "IP"          md5
