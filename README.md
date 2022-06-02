@@ -1,4 +1,4 @@
-#
+# SQL Samples
 
 ## Exemplos de códigos utilizados para criação e consultas de Bases de Dados Estruturadas
 
